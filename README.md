@@ -1,6 +1,6 @@
 MudraVaani
 
-Welcome to 'MudraVaani' the Sign Language Learning and Communication App! This Android application is designed to enhance learning and communication for the deaf and hard-of-hearing community by leveraging advanced technologies to recognize and interpret sign language gestures. Developed using Java, TensorFlow, OpenCV, and Firebase Auth, this app provides an innovative and user-friendly solution for learning and practicing sign language.
+Welcome to 'MudraVaani', the Sign Language Learning and Communication App! This Android application is designed to enhance learning and communication for the deaf and hard-of-hearing community by leveraging advanced technologies to recognize and interpret sign language gestures. Developed using Java, TensorFlow, OpenCV, and Firebase Auth, this app provides an innovative and user-friendly solution for learning and practicing sign language.
 
 Features
 Gesture Recognition: Uses TensorFlow and OpenCV to accurately recognize and interpret hand gestures for various signs.
